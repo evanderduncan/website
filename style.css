@@ -1,0 +1,117 @@
+@font-face {
+    font-family: 'Venus';
+    src: url(Venus+Acier.ttf);
+}
+
+.availablity-icon{
+    position: absolute;
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+    background-color: rgb(0, 255, 89);
+    left:5%;
+    top:5%;
+}
+
+.title-content{
+    font-family: 'Venus';
+}
+
+.featured-work{
+    font-family: 'Venus';
+}
+
+.name{
+    position: absolute;
+    
+    font-size: 40px;
+    color:black;
+    left:8vw;
+    top:5vh;
+    text-decoration: underline;
+}
+
+.portfolio{
+    position: absolute;
+    
+    font-size: 40px;
+    color:black;
+    left:20vw;
+    top:5vh;
+    text-decoration: none;
+}
+
+.contact{
+    position: absolute;
+    
+    font-size: 40px;
+    color:black;
+    left:30vw;
+    top:5vh;
+    text-decoration: none;
+}
+
+.lichen{
+    position: absolute;
+    
+    font-size: 30px;
+    color:black;
+    top:8vh;
+    left:80vw;
+    text-decoration: none;
+}
+
+.patterns{
+    position: absolute;
+    
+    font-size: 30px;
+    color:black;
+    top: 8vh;
+    left:40vw;
+    text-decoration: none;
+}
+
+.intro{
+    position: absolute;
+    font-family:'venus';
+    font-size: 6vh;
+    color:black;
+    top:20vh;
+    left:5vw;
+    text-decoration: none;
+    padding-top:3vh;
+}
+
+.project-grid{
+    display:grid;
+    width:90vw;
+    grid-template-columns: auto auto;
+    background-color: blanchedalmond;
+    padding-top:5%;
+}
+
+.project1 {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    
+    height:50vh;
+    width:40vw;
+    
+    text-align: center;
+  }
+
+  .project2 {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    height:50vh;
+    width:40vw;
+    text-align: center;
+  }
+
+  .project3 {
+    background-color: rgba(255, 255, 255, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    height:40vh;
+    width:40vw;
+    text-align: center;
+  }
