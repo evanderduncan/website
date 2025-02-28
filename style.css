@@ -1,6 +1,7 @@
 @font-face {
     font-family: 'Venus';
     src: url(Venus+Acier.ttf);
+    font-size: 20px;
 }
 
 .availablity-icon{
@@ -23,8 +24,7 @@
 
 .name{
     position: absolute;
-    
-    font-size: 40px;
+
     color:black;
     left:8vw;
     top:5vh;
@@ -34,7 +34,6 @@
 .portfolio{
     position: absolute;
     
-    font-size: 40px;
     color:black;
     left:20vw;
     top:5vh;
@@ -44,7 +43,6 @@
 .contact{
     position: absolute;
     
-    font-size: 40px;
     color:black;
     left:30vw;
     top:5vh;
@@ -54,7 +52,6 @@
 .lichen{
     position: absolute;
     
-    font-size: 30px;
     color:black;
     top:8vh;
     left:80vw;
@@ -64,7 +61,6 @@
 .patterns{
     position: absolute;
     
-    font-size: 30px;
     color:black;
     top: 8vh;
     left:40vw;
@@ -74,7 +70,7 @@
 .intro{
     position: absolute;
     font-family:'venus';
-    font-size: 6vh;
+
     color:black;
     top:20vh;
     left:5vw;
