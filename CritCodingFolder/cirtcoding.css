@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+  }
+  /* Fake image */
+  .fakeimg {
+    background-color: #ffffff;
+    width: 100%;
+    padding: 20px;
+  }
+
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .text-box {
+    display: inline-block;
+    width: 50%; /* Adjust width */
+    margin-left: 10%;
+    border: 2px solid black; /* Optional: adds a border */
+    padding: 20px; /* Adds spacing inside the box */
+    background-color: #dadada; /* Optional: background color */
+  }
+
+/* write me code to make the text box as long as the text inside it */  
+ 
